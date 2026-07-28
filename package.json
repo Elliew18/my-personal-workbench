@@ -1,0 +1,8 @@
+{
+  "name": "my-personal-workbench",
+  "version": "2.0.0",
+  "description": "我的个人工作台 - 纯前端版",
+  "scripts": {
+    "dev": "npx serve public"
+  }
+}
